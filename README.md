@@ -4,3 +4,11 @@ The purpose of this notebook is to retrieve the entire list of concentration cam
 The files in this repository are meant to be run in a local notebook environment. However, a version that runs in the Google Colab environment has also been created and can be found here: https://colab.research.google.com/drive/1GMUDuj42UJ_kOtq3Cy8LRsre1Z2Y8OX1?usp=sharing
 
 If you are not familiar with running Jupyter notebooks locally, I'd suggest you visit this notebook in Google Colab.
+
+### If you decide to run this locally, you might need to install the following dependencies:
+* pandas==1.3.3
+* geopy==2.2.0
+* ipywidgets
+* ipyleaflet
+* tqdm
+* requests
